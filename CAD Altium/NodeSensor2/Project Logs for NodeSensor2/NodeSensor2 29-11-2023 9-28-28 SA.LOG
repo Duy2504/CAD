@@ -1,0 +1,14 @@
+Added Component: Designator=U4(LoRa Ra 02 Module 2)
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=3V3 Pin=U4-3
+Added Pin To Net: NetName=RST Pin=U4-4
+Added Pin To Net: NetName=IO0 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=SCK Pin=U4-12
+Added Pin To Net: NetName=MISO Pin=U4-13
+Added Pin To Net: NetName=MOSI Pin=U4-14
+Added Pin To Net: NetName=NSS Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Member To Class: ClassName=NodeSensor Member=Component U4 Module LoRa Ra 02
+Added Room: Name=NodeSensor

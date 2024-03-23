@@ -1,0 +1,3 @@
+Added Member To Class: ClassName=NodeSensor Member=Component LIGHT LM393 Sensor
+Added Member To Class: ClassName=NodeSensor Member=Component Soil LM393 Sensor
+Added Room: Name=NodeSensor

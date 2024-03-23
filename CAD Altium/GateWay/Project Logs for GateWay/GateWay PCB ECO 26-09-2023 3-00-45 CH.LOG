@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RST 1 Pin=U2-19
+Added Pin To Net: NetName=RST 1 Pin=U2-18
+Added Member To Class: ClassName=GateWay Member=Component U3 Board
+Added Room: Name=GateWay

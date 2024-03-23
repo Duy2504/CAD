@@ -1,0 +1,114 @@
+Added Component: Designator=BT1(De Pin 18650 x2)
+Added Component: Designator=BT2(De Pin 18650 x2)
+Added Component: Designator=Changer 1(Mach sac Pin lithium 18650)
+Added Component: Designator=Changer2(Mach sac Pin lithium 18650)
+Added Component: Designator=JACK DC1(JACK DC 5.5)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=JACK DC2(JACK DC 5.5)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=SD1(DIP2/W0.3K)
+Add component (AddParameter): Name = "Value"; Value = "SW - DIP2"; VariantName = "[No Variations]"
+Added Component: Designator=SD2(DIP2/W0.3K)
+Add component (AddParameter): Name = "Value"; Value = "SW - DIP2"; VariantName = "[No Variations]"
+Added Component: Designator=U1(Boost ap DC-DC LM2577)
+Added Component: Designator=U2(ESP32 WROOM DEVKIT V1)
+Added Component: Designator=U3(LoRa Ra-02)
+Added Component: Designator=U4(ESP32 WROOM DEVKIT V1)
+Added Component: Designator=U5(Boost ap DC-DC LM2577)
+Added Component: Designator=U6(LoRa Ra-02)
+Added Pin To Net: NetName=+5V 1 Pin=U1-3
+Added Pin To Net: NetName=+5V 1 Pin=U2-15
+Added Net: Name=+5V 1
+Added Pin To Net: NetName=+5V 2 Pin=U4-15
+Added Pin To Net: NetName=+5V 2 Pin=U5-3
+Added Net: Name=+5V 2
+Added Pin To Net: NetName=3V3 1 Pin=U2-16
+Added Pin To Net: NetName=3V3 1 Pin=U3-8
+Added Net: Name=3V3 1
+Added Pin To Net: NetName=3V3 2 Pin=U4-16
+Added Pin To Net: NetName=3V3 2 Pin=U6-8
+Added Net: Name=3V3 2
+Added Pin To Net: NetName=GND 1 Pin=Changer 1-4
+Added Pin To Net: NetName=GND 1 Pin=U1-2
+Added Pin To Net: NetName=GND 1 Pin=U1-4
+Added Pin To Net: NetName=GND 1 Pin=U2-14
+Added Pin To Net: NetName=GND 1 Pin=U2-17
+Added Pin To Net: NetName=GND 1 Pin=U3-4
+Added Net: Name=GND 1
+Added Pin To Net: NetName=GND 2 Pin=Changer2-4
+Added Pin To Net: NetName=GND 2 Pin=U4-14
+Added Pin To Net: NetName=GND 2 Pin=U4-17
+Added Pin To Net: NetName=GND 2 Pin=U5-2
+Added Pin To Net: NetName=GND 2 Pin=U5-4
+Added Pin To Net: NetName=GND 2 Pin=U6-4
+Added Net: Name=GND 2
+Added Pin To Net: NetName=IO 0 1 Pin=U2-20
+Added Pin To Net: NetName=IO 0 1 Pin=U3-5
+Added Net: Name=IO 0 1
+Added Pin To Net: NetName=IO 0 2 Pin=U4-20
+Added Pin To Net: NetName=IO 0 2 Pin=U6-5
+Added Net: Name=IO 0 2
+Added Pin To Net: NetName=MISO 1 Pin=U2-25
+Added Pin To Net: NetName=MISO 1 Pin=U3-6
+Added Net: Name=MISO 1
+Added Pin To Net: NetName=MISO 2 Pin=U4-25
+Added Pin To Net: NetName=MISO 2 Pin=U6-6
+Added Net: Name=MISO 2
+Added Pin To Net: NetName=MOSI 1 Pin=U2-30
+Added Pin To Net: NetName=MOSI 1 Pin=U3-1
+Added Net: Name=MOSI 1
+Added Pin To Net: NetName=MOSI 2 Pin=U4-30
+Added Pin To Net: NetName=MOSI 2 Pin=U6-1
+Added Net: Name=MOSI 2
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=Changer 1-5
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=Changer 1-6
+Added Net: Name=NetBT1_2
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-1
+Added Pin To Net: NetName=NetBT2_1 Pin=Changer2-5
+Added Net: Name=NetBT2_1
+Added Pin To Net: NetName=NetBT2_2 Pin=BT2-2
+Added Pin To Net: NetName=NetBT2_2 Pin=Changer2-6
+Added Net: Name=NetBT2_2
+Added Pin To Net: NetName=NetChanger 1_1 Pin=Changer 1-1
+Added Pin To Net: NetName=NetChanger 1_1 Pin=JACK DC1-1
+Added Net: Name=NetChanger 1_1
+Added Pin To Net: NetName=NetChanger 1_2 Pin=Changer 1-2
+Added Pin To Net: NetName=NetChanger 1_2 Pin=JACK DC1-2
+Added Pin To Net: NetName=NetChanger 1_2 Pin=JACK DC1-3
+Added Net: Name=NetChanger 1_2
+Added Pin To Net: NetName=NetChanger 1_3 Pin=Changer 1-3
+Added Pin To Net: NetName=NetChanger 1_3 Pin=SD1-1
+Added Net: Name=NetChanger 1_3
+Added Pin To Net: NetName=NetChanger2_1 Pin=Changer2-1
+Added Pin To Net: NetName=NetChanger2_1 Pin=JACK DC2-1
+Added Net: Name=NetChanger2_1
+Added Pin To Net: NetName=NetChanger2_2 Pin=Changer2-2
+Added Pin To Net: NetName=NetChanger2_2 Pin=JACK DC2-2
+Added Pin To Net: NetName=NetChanger2_2 Pin=JACK DC2-3
+Added Net: Name=NetChanger2_2
+Added Pin To Net: NetName=NetChanger2_3 Pin=Changer2-3
+Added Pin To Net: NetName=NetChanger2_3 Pin=SD2-1
+Added Net: Name=NetChanger2_3
+Added Pin To Net: NetName=NSS 1 Pin=U2-23
+Added Pin To Net: NetName=NSS 1 Pin=U3-7
+Added Net: Name=NSS 1
+Added Pin To Net: NetName=NSS 2 Pin=U4-23
+Added Pin To Net: NetName=NSS 2 Pin=U6-7
+Added Net: Name=NSS 2
+Added Pin To Net: NetName=RST 1 Pin=U2-19
+Added Pin To Net: NetName=RST 1 Pin=U3-3
+Added Net: Name=RST 1
+Added Pin To Net: NetName=RST 2 Pin=U4-19
+Added Pin To Net: NetName=RST 2 Pin=U6-3
+Added Net: Name=RST 2
+Added Pin To Net: NetName=SCK 1 Pin=U2-24
+Added Pin To Net: NetName=SCK 1 Pin=U3-2
+Added Net: Name=SCK 1
+Added Pin To Net: NetName=SCK 2 Pin=U4-24
+Added Pin To Net: NetName=SCK 2 Pin=U6-2
+Added Net: Name=SCK 2
+Added Class: Name=GateWay
+Added Room: Name=GateWay

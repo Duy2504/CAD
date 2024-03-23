@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=Sensor1 NewDesignator=LIGHT
+Change Component Designator: OldDesignator=Sensor2 NewDesignator=SOIL
+Added Room: Name=NodeSensor

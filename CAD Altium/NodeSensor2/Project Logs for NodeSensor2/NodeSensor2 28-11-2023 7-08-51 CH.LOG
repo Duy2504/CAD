@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=3V3-1
+Removed Pin From Net: NetName=3V3 Pin=3V3-2
+Removed Pin From Net: NetName=3V3 Pin=3V3-3
+Removed Pin From Net: NetName=5V+ Pin=5V-1
+Removed Pin From Net: NetName=5V+ Pin=5V-2
+Removed Pin From Net: NetName=5V+ Pin=5V-3
+Removed Member From Class: ClassName=NodeSensor Member=3V3
+Removed Member From Class: ClassName=NodeSensor Member=5V
+Added Member To Class: ClassName=NodeSensor Member=Component U2 Ra 02
+Added Room: Name=NodeSensor

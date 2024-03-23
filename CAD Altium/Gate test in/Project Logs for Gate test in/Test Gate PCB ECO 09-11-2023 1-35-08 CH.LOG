@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=G12 Pin=P1-1
+Removed Pin From Net: NetName=G13 Pin=P1-2
+Added Pin To Net: NetName=G13 Pin=P1-1
+Added Pin To Net: NetName=G12 Pin=P1-2
+Added Member To Class: ClassName=Test Gate Member=Component P1 Header 16
+Added Room: Name=Test Gate

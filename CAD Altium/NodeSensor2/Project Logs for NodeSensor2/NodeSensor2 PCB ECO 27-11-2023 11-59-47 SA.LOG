@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=RXD New Net Name=RXD2
+Change Net Name : Old Net Name=TXD New Net Name=TXD2
+Added Member To Class: ClassName=NodeSensor Member=Component ESP1 Devkit
+Added Room: Name=NodeSensor

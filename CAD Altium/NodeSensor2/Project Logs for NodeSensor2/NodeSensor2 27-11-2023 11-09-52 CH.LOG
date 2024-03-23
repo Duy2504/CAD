@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=B+ Pin=BT1-1
+Removed Pin From Net: NetName=B+ Pin=BT1-1
+Removed Pin From Net: NetName=B- Pin=BT1-2
+Removed Pin From Net: NetName=B- Pin=BT1-2
+Added Component: Designator=BT1(De Pin 18650 x2)
+Added Pin To Net: NetName=B+ Pin=BT1-1
+Added Pin To Net: NetName=B+ Pin=BT1-1
+Added Pin To Net: NetName=B- Pin=BT1-2
+Added Pin To Net: NetName=B- Pin=BT1-2
+Added Member To Class: ClassName=NodeSensor Member=Component BT1 Pin 18650 x2
+Added Room: Name=NodeSensor

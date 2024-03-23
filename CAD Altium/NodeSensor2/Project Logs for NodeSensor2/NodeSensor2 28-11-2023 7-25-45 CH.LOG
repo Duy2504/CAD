@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=G33 Pin=GPIO-1
+Removed Pin From Net: NetName=G32 Pin=GPIO-2
+Removed Pin From Net: NetName=G35 Pin=GPIO-3
+Removed Pin From Net: NetName=G34 Pin=GPIO-4
+Removed Pin From Net: NetName=G21 Pin=GPIO-5
+Removed Pin From Net: NetName=G22 Pin=GPIO-6
+Removed Member From Class: ClassName=NodeSensor Member=GPIO
+Added Component: Designator=JP1(JP 1x4 DC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Cong Ð?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP 1x2 CC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x40P Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G33 Pin=JP1-1
+Added Pin To Net: NetName=G32 Pin=JP1-2
+Added Pin To Net: NetName=G35 Pin=JP1-3
+Added Pin To Net: NetName=G34 Pin=JP1-4
+Added Pin To Net: NetName=G21 Pin=JP2-1
+Added Pin To Net: NetName=G22 Pin=JP2-2
+Added Member To Class: ClassName=NodeSensor Member=Component JP1 GPIOA
+Added Member To Class: ClassName=NodeSensor Member=Component JP2 GPIOa
+Added Room: Name=NodeSensor

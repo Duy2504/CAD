@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=IO1 Pin=U2-6
+Added Pin To Net: NetName=IO1 Pin=U4-6
+Added Net: Name=IO1
+Added Pin To Net: NetName=IO2 Pin=U2-7
+Added Pin To Net: NetName=IO2 Pin=U4-7
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=U2-8
+Added Pin To Net: NetName=IO3 Pin=U4-8
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=U2-10
+Added Pin To Net: NetName=IO4 Pin=U4-10
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=U2-11
+Added Pin To Net: NetName=IO5 Pin=U4-11
+Added Net: Name=IO5
+Added Member To Class: ClassName=NodeSensor Member=Component BT1 Pin 18650 x2
+Added Room: Name=NodeSensor

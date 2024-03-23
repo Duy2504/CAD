@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=3V3 Pin=ESP1-1
+Removed Pin From Net: NetName=G34 Pin=ESP1-5
+Removed Pin From Net: NetName=G35 Pin=ESP1-6
+Removed Pin From Net: NetName=G32 Pin=ESP1-7
+Removed Pin From Net: NetName=G33 Pin=ESP1-8
+Removed Pin From Net: NetName=SOIL_V Pin=ESP1-9
+Removed Pin From Net: NetName=A0 SOIL Pin=ESP1-10
+Removed Pin From Net: NetName=LIGHT_V Pin=ESP1-11
+Removed Pin From Net: NetName=A0 LIGHT Pin=ESP1-12
+Removed Pin From Net: NetName=DHT_V Pin=ESP1-13
+Removed Pin From Net: NetName=GND Pin=ESP1-14
+Removed Pin From Net: NetName=DAT Pin=ESP1-15
+Removed Pin From Net: NetName=5V+ Pin=ESP1-19
+Removed Pin From Net: NetName=RST Pin=ESP1-23
+Removed Pin From Net: NetName=IO0 Pin=ESP1-26
+Removed Pin From Net: NetName=RXD2 Pin=ESP1-27
+Removed Pin From Net: NetName=TXD2 Pin=ESP1-28
+Removed Pin From Net: NetName=NSS Pin=ESP1-29
+Removed Pin From Net: NetName=SCK Pin=ESP1-30
+Removed Pin From Net: NetName=MISO Pin=ESP1-31
+Removed Pin From Net: NetName=GND Pin=ESP1-32
+Removed Pin From Net: NetName=G21 Pin=ESP1-33
+Removed Pin From Net: NetName=G22 Pin=ESP1-36
+Removed Pin From Net: NetName=MOSI Pin=ESP1-37
+Removed Pin From Net: NetName=GND Pin=ESP1-38
+Added Component: Designator=ESP1(ESP32 DEVKIT 38Pin)
+Added Pin To Net: NetName=3V3 Pin=ESP1-1
+Added Pin To Net: NetName=G34 Pin=ESP1-5
+Added Pin To Net: NetName=G35 Pin=ESP1-6
+Added Pin To Net: NetName=G32 Pin=ESP1-7
+Added Pin To Net: NetName=G33 Pin=ESP1-8
+Added Pin To Net: NetName=SOIL_V Pin=ESP1-9
+Added Pin To Net: NetName=A0 SOIL Pin=ESP1-10
+Added Pin To Net: NetName=LIGHT_V Pin=ESP1-11
+Added Pin To Net: NetName=A0 LIGHT Pin=ESP1-12
+Added Pin To Net: NetName=DHT_V Pin=ESP1-13
+Added Pin To Net: NetName=GND Pin=ESP1-14
+Added Pin To Net: NetName=DAT Pin=ESP1-15
+Added Pin To Net: NetName=5V+ Pin=ESP1-19
+Added Pin To Net: NetName=RST Pin=ESP1-23
+Added Pin To Net: NetName=IO0 Pin=ESP1-26
+Added Pin To Net: NetName=RXD2 Pin=ESP1-27
+Added Pin To Net: NetName=TXD2 Pin=ESP1-28
+Added Pin To Net: NetName=NSS Pin=ESP1-29
+Added Pin To Net: NetName=SCK Pin=ESP1-30
+Added Pin To Net: NetName=MISO Pin=ESP1-31
+Added Pin To Net: NetName=GND Pin=ESP1-32
+Added Pin To Net: NetName=G21 Pin=ESP1-33
+Added Pin To Net: NetName=G22 Pin=ESP1-36
+Added Pin To Net: NetName=MOSI Pin=ESP1-37
+Added Pin To Net: NetName=GND Pin=ESP1-38
+Added Room: Name=NodeSensor

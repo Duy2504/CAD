@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=G33 Pin=P1-1
+Removed Pin From Net: NetName=G32 Pin=P1-2
+Removed Pin From Net: NetName=G35 Pin=P1-3
+Removed Pin From Net: NetName=G34 Pin=P1-4
+Removed Member From Class: ClassName=NodeSensor Member=P1
+Added Component: Designator=JP1(JP 1x4)
+Added Pin To Net: NetName=G33 Pin=JP1-1
+Added Pin To Net: NetName=G32 Pin=JP1-2
+Added Pin To Net: NetName=G35 Pin=JP1-3
+Added Pin To Net: NetName=G34 Pin=JP1-4
+Added Member To Class: ClassName=NodeSensor Member=Component JP1 Jump
+Added Member To Class: ClassName=NodeSensor Member=Component U4 Module LoRa Ra 02
+Added Room: Name=NodeSensor

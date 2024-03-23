@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=GND Pin=GND-2
+Removed Pin From Net: NetName=GND Pin=GND-3
+Removed Member From Class: ClassName=NodeSensor Member=GND
+Added Member To Class: ClassName=NodeSensor Member=Component GPIO JP 1x6 2.54
+Added Member To Class: ClassName=NodeSensor Member=Component U2 Module
+Added Room: Name=NodeSensor

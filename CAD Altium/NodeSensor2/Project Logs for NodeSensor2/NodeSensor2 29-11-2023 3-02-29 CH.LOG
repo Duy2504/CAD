@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=DHT1-1
+Removed Pin From Net: NetName=DAT Pin=DHT1-2
+Removed Pin From Net: NetName=DHT_V Pin=DHT1-3
+Added Component: Designator=DHT1(DHT11 Module)
+Added Pin To Net: NetName=GND Pin=DHT1-1
+Added Pin To Net: NetName=DAT Pin=DHT1-2
+Added Pin To Net: NetName=DHT_V Pin=DHT1-3
+Added Room: Name=NodeSensor

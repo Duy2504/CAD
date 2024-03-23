@@ -1,0 +1,13 @@
+Added Component: Designator=Sensor1(Soil /Light Sensor)
+Added Component: Designator=Sensor2(Soil /Light Sensor)
+Added Pin To Net: NetName=A0 LIGHT Pin=Sensor1-1
+Added Pin To Net: NetName=A0 LIGHT Pin=Sensor1-1
+Added Pin To Net: NetName=GND Pin=Sensor1-3
+Added Pin To Net: NetName=LIGHT_V Pin=Sensor1-4
+Added Pin To Net: NetName=A0 SOIL Pin=Sensor2-1
+Added Pin To Net: NetName=A0 SOIL Pin=Sensor2-1
+Added Pin To Net: NetName=GND Pin=Sensor2-3
+Added Pin To Net: NetName=SOIL_V Pin=Sensor2-4
+Added Member To Class: ClassName=NodeSensor Member=Component Sensor1 LM393 Sensor
+Added Member To Class: ClassName=NodeSensor Member=Component Sensor2 LM393 Sensor
+Added Room: Name=NodeSensor

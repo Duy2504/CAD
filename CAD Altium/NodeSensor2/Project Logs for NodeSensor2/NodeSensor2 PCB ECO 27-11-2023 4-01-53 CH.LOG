@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=DHT-1
+Removed Pin From Net: NetName=DAT Pin=DHT-2
+Removed Pin From Net: NetName=DHT_V Pin=DHT-3
+Removed Member From Class: ClassName=NodeSensor Member=DHT
+Added Component: Designator=DHT1(DHT11 Module)
+Added Pin To Net: NetName=GND Pin=DHT1-1
+Added Pin To Net: NetName=DAT Pin=DHT1-2
+Added Pin To Net: NetName=DHT_V Pin=DHT1-3
+Added Member To Class: ClassName=NodeSensor Member=Component BT1 Pin 18650 x2
+Added Member To Class: ClassName=NodeSensor Member=Component DHT1 DHT11
+Added Room: Name=NodeSensor

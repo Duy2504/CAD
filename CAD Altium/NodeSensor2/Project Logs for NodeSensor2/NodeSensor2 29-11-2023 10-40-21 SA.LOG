@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=G33 Pin=JP1-1
+Removed Pin From Net: NetName=G32 Pin=JP1-2
+Removed Pin From Net: NetName=G35 Pin=JP1-3
+Removed Pin From Net: NetName=G34 Pin=JP1-4
+Removed Member From Class: ClassName=NodeSensor Member=JP1
+Added Component: Designator=P1(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G33 Pin=P1-1
+Added Pin To Net: NetName=G32 Pin=P1-2
+Added Pin To Net: NetName=G35 Pin=P1-3
+Added Pin To Net: NetName=G34 Pin=P1-4
+Added Member To Class: ClassName=NodeSensor Member=Component P1 Header 4
+Added Room: Name=NodeSensor

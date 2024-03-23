@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=ESP1-13
+Removed Pin From Net: NetName=G13 Pin=P1-1
+Removed Pin From Net: NetName=G14 Pin=P1-2
+Removed Pin From Net: NetName=G27 Pin=P1-3
+Removed Pin From Net: NetName=G26 Pin=P1-4
+Removed Pin From Net: NetName=G25 Pin=P1-5
+Removed Pin From Net: NetName=G33 Pin=P1-6
+Removed Pin From Net: NetName=G32 Pin=P1-7
+Removed Pin From Net: NetName=G35 Pin=P1-8
+Removed Pin From Net: NetName=G34 Pin=P1-9
+Removed Pin From Net: NetName=G2 Pin=P1-10
+Removed Pin From Net: NetName=G0 Pin=P1-11
+Removed Pin From Net: NetName=G16 Pin=P1-12
+Removed Pin From Net: NetName=G17 Pin=P1-13
+Removed Pin From Net: NetName=G21 Pin=P1-14
+Removed Pin From Net: NetName=G22 Pin=P1-15
+Change Component Designator: OldDesignator=3V3 NewDesignator=JP2
+Change Component Designator: OldDesignator=5V NewDesignator=JP1
+Change Component Designator: OldDesignator=GND NewDesignator=JP3
+Added Component: Designator=P1(HDR1X16)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G13 Pin=P1-2
+Added Pin To Net: NetName=G14 Pin=P1-3
+Added Pin To Net: NetName=G27 Pin=P1-4
+Added Pin To Net: NetName=G26 Pin=P1-5
+Added Pin To Net: NetName=G25 Pin=P1-6
+Added Pin To Net: NetName=G33 Pin=P1-7
+Added Pin To Net: NetName=G32 Pin=P1-8
+Added Pin To Net: NetName=G35 Pin=P1-9
+Added Pin To Net: NetName=G34 Pin=P1-10
+Added Pin To Net: NetName=G2 Pin=P1-11
+Added Pin To Net: NetName=G0 Pin=P1-12
+Added Pin To Net: NetName=G16 Pin=P1-13
+Added Pin To Net: NetName=G17 Pin=P1-14
+Added Pin To Net: NetName=G21 Pin=P1-15
+Added Pin To Net: NetName=G22 Pin=P1-16
+Added Pin To Net: NetName=G12 Pin=ESP1-13
+Added Pin To Net: NetName=G12 Pin=P1-1
+Added Net: Name=G12
+Added Member To Class: ClassName=Test Gate Member=Component C4 22uF
+Added Member To Class: ClassName=Test Gate Member=Component C5 22uF
+Added Member To Class: ClassName=Test Gate Member=Component ESP1 Devkit
+Added Member To Class: ClassName=Test Gate Member=Component LED1 LED SMD
+Added Member To Class: ClassName=Test Gate Member=Component P1 Header 16
+Added Member To Class: ClassName=Test Gate Member=Component U2 Module
+Added Room: Name=Test Gate

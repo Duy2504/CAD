@@ -1,0 +1,15 @@
+Added Component: Designator=JP5(JP 1x2 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RXD Pin=ESP1-34
+Added Pin To Net: NetName=RXD Pin=JP5-2
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=ESP1-35
+Added Pin To Net: NetName=TXD Pin=JP5-1
+Added Net: Name=TXD
+Added Member To Class: ClassName=Test Gate Member=Component JP5 JP 1x2 2.54
+Added Room: Name=Test Gate

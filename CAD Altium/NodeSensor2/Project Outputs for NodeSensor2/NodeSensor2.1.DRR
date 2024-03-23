@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NodeSensor2.1.PcbDoc   30/11/2023  9:44:25 CH
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NodeSensor2.1-RoundHoles.TXT
+ASCII SlotHoles File : NodeSensor2.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             9         PTH        3.88inch (98.50mm)
+T2      16mil (0.399mm)                                           Round             6         PTH        3.67inch (93.15mm)
+T3      24mil (0.599mm)                                           Round             4         PTH        0.96inch (24.28mm)
+T4      32mil (0.8mm)                                             Round             7         PTH        2.95inch (74.86mm)
+T5      35mil (0.899mm)                                           Round             71        PTH        13.64inch (346.34mm)
+T6      40mil (1.016mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T7      40mil (1.021mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T8      43mil (1.1mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T9      55mil (1.4mm)           +39mil (1mm)/-79mil (2mm)         Round             2         PTH        0.33inch (8.47mm)
+T10     59mil (1.501mm)                                           Slot              3         PTH        1.13inch (28.74mm)
+T11     71mil (1.801mm)         +/-71mil (1.8mm)                  Round             4         PTH        4.39inch (111.60mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              112
+
+Two holes at same point : 2
+-----------------------
+2996,6485
+3556,6485
+
+Total Processing Time (hh:mm:ss) : 00:00:00

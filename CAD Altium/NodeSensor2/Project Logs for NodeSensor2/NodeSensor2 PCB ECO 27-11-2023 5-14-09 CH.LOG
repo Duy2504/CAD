@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=A0 LIGHT Pin=LIGHT-1
+Removed Pin From Net: NetName=GND Pin=LIGHT-3
+Removed Pin From Net: NetName=LIGHT_V Pin=LIGHT-4
+Removed Pin From Net: NetName=A0 SOIL Pin=SOIL-1
+Removed Pin From Net: NetName=GND Pin=SOIL-3
+Removed Pin From Net: NetName=SOIL_V Pin=SOIL-4
+Removed Member From Class: ClassName=NodeSensor Member=LIGHT
+Removed Member From Class: ClassName=NodeSensor Member=SOIL
+Added Component: Designator=Sensor1(Soil /Light Sensor)
+Added Component: Designator=Sensor2(Soil /Light Sensor)
+Added Pin To Net: NetName=A0 LIGHT Pin=Sensor1-1
+Added Pin To Net: NetName=A0 LIGHT Pin=Sensor1-1
+Added Pin To Net: NetName=GND Pin=Sensor1-3
+Added Pin To Net: NetName=LIGHT_V Pin=Sensor1-4
+Added Pin To Net: NetName=A0 SOIL Pin=Sensor2-1
+Added Pin To Net: NetName=A0 SOIL Pin=Sensor2-1
+Added Pin To Net: NetName=GND Pin=Sensor2-3
+Added Pin To Net: NetName=SOIL_V Pin=Sensor2-4
+Added Member To Class: ClassName=NodeSensor Member=Component Sensor1 LM393 Sensor
+Added Member To Class: ClassName=NodeSensor Member=Component Sensor2 LM393 Sensor
+Added Room: Name=NodeSensor
